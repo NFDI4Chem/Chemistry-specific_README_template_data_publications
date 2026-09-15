@@ -40,3 +40,6 @@ Questions or feedback? Reach out via the [NFDI4Chem Helpdesk](https://nfdi4chem.
 
 ## About
 This template is developed and maintained by [NFDI4Chem](https://nfdi4chem.de/).
+
+## Funding information
+Funded/supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure – NFDI4/2 – Project number 441958208 (NFDI4Chem).
